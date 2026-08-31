@@ -8,7 +8,7 @@
   "license": "AGPL-3.0-only",
   "author": "flathead",
   "authorUrl": "https://github.com/flathead",
-  "homepage": "https://github.com/flathead/ambxst-mods/tree/main/packages/i18n",
+  "homepage": "https://github.com/flathead/ambxst-mod-i18n",
   "compatibility": {
     "api": 1,
     "ambxst": ">=1.2.5 <1.3.0",
